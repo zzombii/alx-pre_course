@@ -1,3 +1,2 @@
-zombi
-zombi2
-zobmi3
+My first readme
+hi
